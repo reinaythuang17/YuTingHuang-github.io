@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yu Ting Huang / Welcome to my website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "I am a health economist at the Georgia State University. My primary research interests are in the areas of health."

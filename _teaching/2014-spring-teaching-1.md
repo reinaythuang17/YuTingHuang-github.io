@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "NCU LBD Student Team Head"
 venue: "National Central University"
-date: 2017-2019
+date: 2017,2018,2019
 location: "City, Country"
 ---
 

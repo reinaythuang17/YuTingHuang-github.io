@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Georgia State University, 2027 (expected)
+* M.S. in Economics, The University of Texas at Austin, 2022
+* B.S. in Economics, National Central University(Taiwan), 2020
+* Study Abroad Program, University of Groningen(Netherlands), 2020
+* Summer Academy, Linkoping University(Sweden), 2018
+* Summer Academy, Shanghai Jiao Tong University(China), 2017
 
-Work experience
+Resesarch experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025: Research Assistant for Dr. Elaine Meichen Liu, Georgia State University
+* 2023-present: Research Assistant for Dr. Layren Hoehn-Velasco, Georgia State University
+* 2022-2024: Research Assistant for Dr. Bukky Akinsanmi Oyedeji, UT-Austin & London Business School
+* 2022-2023: Research Assistant for Dr. Micheal Pesko regarding Tobacco Regulatory Science, Georgia State University
+* 2020-2022: Research Assistant for Dr. Nitya Pandalai-Nayar and Dr. Olivier Coibion, University of Texas at Austin
+* 2020-2021: Research Assistant(Industry) for Kuan-Yun Lu, Institute of Information Industry, Taiwan
+  
+Presentations
+======
+* 2025
+**ASHEcon(American Society of Health Economists)**
+"Public Reimbursement Mandates and Healthcare Supply: Evidence from Nurse Midwives"
+(with Lauren Hoehn-Velasco and Olanrewaju Yusuff)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

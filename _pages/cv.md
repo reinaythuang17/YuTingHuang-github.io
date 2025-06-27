@@ -23,14 +23,15 @@ Education
 
 Resesarch experience
 ======
-* Georgia State University:
-  * 2025(summer project): Research Assistant for Dr. Elaine Meichen Liu
-  * 2023-present(current): Research Assistant for Dr. Layren Hoehn-Velasco
-  * 2022-2023(previous): Research Assistant for Dr. Micheal Pesko regarding Tobacco Regulatory Science
+* Georgia State University (Research Assistant)
+  * 2025 Summer Dr. Elaine Meichen Liu
+  * 2023-Present Dr. Lauren Hoehn-Velasco
+  * 2022-2023 Dr. Micheal Pesko  
+* University of Texas at Austin (Research Assistant)
+  * 2022-2024 Dr. Bukky Akinsanmi Oyedeji (London Business School)
+  * 2020-2022 Dr. Nitya Pandalai-Nayar and Dr. Olivier Coibion 
+* Institute of Information Industry, Taiwan, 2020-2021
 
-* 2022-2024: Research Assistant for Dr. Bukky Akinsanmi Oyedeji, UT-Austin & London Business School
-* 2020-2022: Research Assistant for Dr. Nitya Pandalai-Nayar and Dr. Olivier Coibion, University of Texas at Austin
-* 2020-2021: Research Assistant(Industry) for Kuan-Yun Lu, Institute of Information Industry, Taiwan
 
 ---
   

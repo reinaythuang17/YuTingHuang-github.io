@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Georgia State University, 2027 (expected)
+* Ph.D in Economics, Georgia State University
+
+  Expected Job Market 2026-2027
 * M.S. in Economics, The University of Texas at Austin, 2022
-* B.S. in Economics, National Central University(Taiwan), 2020
-* Study Abroad Program, University of Groningen(Netherlands), 2020
-* Summer Academy, Linkoping University(Sweden), 2018
-* Summer Academy, Shanghai Jiao Tong University(China), 2017
+* B.S. in Economics, National Central University, Taiwan, 2020
+* Study Abroad Program, University of Groningen, Netherlands, 2020
+* Summer Academy, Linkoping University, Sweden, 2018
+* Summer Academy, Shanghai Jiao Tong University, China, 2017
+
+---
 
 Resesarch experience
 ======
@@ -28,6 +32,8 @@ Resesarch experience
 * 2022-2024: Research Assistant for Dr. Bukky Akinsanmi Oyedeji, UT-Austin & London Business School
 * 2020-2022: Research Assistant for Dr. Nitya Pandalai-Nayar and Dr. Olivier Coibion, University of Texas at Austin
 * 2020-2021: Research Assistant(Industry) for Kuan-Yun Lu, Institute of Information Industry, Taiwan
+
+---
   
 Presentations
 ======

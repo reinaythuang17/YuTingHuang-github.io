@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, Georgia State University
-
-  Expected Job Market 2026-2027
+  * Expected Job Market 2026-2027
 * M.S. in Economics, The University of Texas at Austin, 2022
 * B.S. in Economics, National Central University, Taiwan, 2020
 * Study Abroad Program, University of Groningen, Netherlands, 2020

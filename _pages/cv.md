@@ -21,7 +21,7 @@ Education
 
 ---
 
-Resesarch experience
+Experience
 ======
 * Georgia State University (Research Assistant)
   * 2025 Summer Dr. Elaine Meichen Liu

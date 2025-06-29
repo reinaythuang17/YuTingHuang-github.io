@@ -48,8 +48,8 @@ p, li, a, span, td, th {
   font-family: "Castoro", serif ;
 }
 
-#sidebar, aside {
-  font-family: 'Noto Sans', sans-serif;
+.sidebar .author-bio {
+  font-family: "Castoro", sans-serif !important;
   font-size: 1rem;
   font-weight: normal;
 }

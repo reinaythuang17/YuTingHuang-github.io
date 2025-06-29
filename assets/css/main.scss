@@ -49,8 +49,7 @@ p, li, a, span, td, th {
 }
 
 .sidebar .author-bio {
-  font-family: "Castoro", sans-serif !important;
-  font-size: 16px !important;
-  line-height: 1.5 !important;
-  color: #333 !important;
+  font-family: {{ site.font.sidebar.family }};
+  font-size: {{ site.font.sidebar.size }};
+  color: {{ site.font.sidebar.color }};
 }

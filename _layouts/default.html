@@ -10,13 +10,15 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-      <style>
-        aside.sidebar {
-          font-family: {{ site.font.sidebar.family }};
-          font-size: {{ site.font.sidebar.size }};
-          color: {{ site.font.sidebar.color }};
-        }
-    </style>
+     <style>
+    aside.sidebar, 
+    aside.sidebar .author-bio {
+      font-family: "Castoro", serif !important;
+      font-size: 16px !important;
+      line-height: 1.5 !important;
+      color: #333333 !important;
+    }
+  </style>
   </head>
 
   <body>

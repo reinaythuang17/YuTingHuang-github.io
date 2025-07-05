@@ -30,7 +30,7 @@ Experience
 * University of Texas at Austin (Research Assistant)
   * 2022-2024 Dr. Bukky Akinsanmi Oyedeji (London Business School)
   * 2020-2022 Dr. Nitya Pandalai-Nayar and Dr. Olivier Coibion 
-* Institute of Information Industry, Taiwan, 2020-2021
+* [Institute of Information Industry](https://www.iii.org.tw/en), Taiwan, 2020-2021
 
 
 ---

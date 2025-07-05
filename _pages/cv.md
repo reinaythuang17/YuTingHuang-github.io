@@ -37,7 +37,7 @@ Experience
   
 Presentations
 ======
-* ASHEcon(American Society of Health Economists), 2025
+* ASHEcon (American Society of Health Economists), 2025
   * Public Reimbursement Mandates and Healthcare Supply: Evidence from Nurse Midwives  
   (with Lauren Hoehn-Velasco and Olanrewaju Yusuff)
 

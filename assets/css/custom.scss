@@ -2,5 +2,9 @@
 ---
 
 .homepage-bg {
-  background-color: #cee1eb; /* 首頁淺灰 */
+  background-color: #cee1eb !important; /* 強制覆蓋主題 */
+}
+
+.homepage-bg .page-wrapper {
+  background-color: #cee1eb; /* 如果 body 沒生效，可以改 page-wrapper */
 }

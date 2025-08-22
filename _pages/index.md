@@ -3,7 +3,7 @@ layout: single
 title: "Hello, I'm Reina"
 permalink: /
 author_profile: true
-classes: homepage-c
+classes: homepage-bg
 ---
 
 **Welcome to Reina's world!**

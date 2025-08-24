@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# View my [CV](/files/CV_Yu-Ting_v2_Sep2025_pub.pdf)
+# View my <a href="/files/CV_Yu-Ting_v2_Sep2025_pub.pdf" target="_blank">CV</a>
 
 Education
 ======
@@ -32,7 +32,7 @@ Experience
 * University of Texas at Austin (Research Assistant)
   * 2022-2024 Dr. Bukky Akinsanmi Oyedeji (London Business School)
   * 2020-2022 Dr. Nitya Pandalai-Nayar and Dr. Olivier Coibion 
-* [Institute of Information Industry](https://www.iii.org.tw/en), Taiwan, 2020-2021
+* <a href="https://www.iii.org.tw/en" target="_blank">Institute of Information Industry</a>, Taiwan, 2020-2021
 
 
 ---

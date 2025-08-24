@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# View my [CV](/file/CV_Yu-Ting_v2_Sep2025_pub.pdf)
+# View my [CV](/files/CV_Yu-Ting_v2_Sep2025_pub.pdf)
 
 Education
 ======

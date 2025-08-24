@@ -11,7 +11,7 @@ redirect_from:
 
 # View my <a href="/files/CV_Yu-Ting_v2_Sep2025_pub.pdf" target="_blank">CV</a>
 
-Education
+## Education
 ======
 * Ph.D in Economics, Georgia State University
   * Expected Job Market 2026-2027
@@ -23,7 +23,7 @@ Education
 
 ---
 
-Experience
+## Experience
 ======
 * Georgia State University (Research Assistant)
   * 2025 Summer Dr. Elaine Meichen Liu
@@ -37,7 +37,7 @@ Experience
 
 ---
   
-Presentations
+## Presentations
 ======
 * APPAM (Association for Public Policy Analysis & Management), Seattle, WA, 2025
 * ASHEcon (American Society of Health Economists), Nashville, TN, 2025

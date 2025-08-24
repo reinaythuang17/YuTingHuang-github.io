@@ -12,7 +12,6 @@ redirect_from:
 # View my <a href="/files/CV_Yu-Ting_v2_Sep2025_pub.pdf" target="_blank">CV</a>
 
 ## Education
-======
 * Ph.D in Economics, Georgia State University
   * Expected Job Market 2026-2027
 * M.S. in Economics, The University of Texas at Austin, 2022
@@ -24,7 +23,6 @@ redirect_from:
 ---
 
 ## Experience
-======
 * Georgia State University (Research Assistant)
   * 2025 Summer Dr. Elaine Meichen Liu
   * 2023-Present Dr. Lauren Hoehn-Velasco
@@ -38,7 +36,6 @@ redirect_from:
 ---
   
 ## Presentations
-======
 * APPAM (Association for Public Policy Analysis & Management), Seattle, WA, 2025
 * ASHEcon (American Society of Health Economists), Nashville, TN, 2025
 
